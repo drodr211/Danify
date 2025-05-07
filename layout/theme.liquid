@@ -4,9 +4,17 @@
     <head> 
         {{ content_for_header }}
         <div style="width:100px; height:100px"></div>
+        <script>
+            if (Shopify.designMode) {
+              document.documentElement.classList.add('shopify-design-mode');
+            }
+          </script>
     </head>
     <body> 
         <div style="width:100px; height:100px"></div>
-        {{ content_for_layout }}
+        
+        <main id=mainContent>
+            {{ content_for_layout }}
+        </main>
     </body>
 </html>
