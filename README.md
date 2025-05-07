@@ -1,2 +1,2 @@
 # Danify
-A minimal Shopify template
+A minimal Shopify theme template
