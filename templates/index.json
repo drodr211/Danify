@@ -9,14 +9,9 @@
  */
 {
   "sections": {
-    "custom-liquid": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "HELLO WORLD"
-      }
-    }
+    
+    
   },
   "order": [
-    "custom-liquid"
   ]
 }
