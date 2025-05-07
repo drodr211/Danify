@@ -12,10 +12,10 @@
     </head>
     <body> 
         {% section 'custom-liquid' %}
-        {% section 'header' %}
+        {% sections 'header' %}
         <main id=MainContent role="main">
             {{ content_for_layout }}
         </main>
-        {% section 'footer' %}
+        {% sections 'footer' %}
     </body>
 </html>
