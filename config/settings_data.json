@@ -8,5 +8,15 @@
  * ------------------------------------------------------------
  */
 {
-  "current": {}
+  "current": {
+    "sections": {
+      "custom-liquid": {
+        "type": "custom-liquid",
+        "settings": {
+          "custom_liquid": "HELLO WORLD"
+        }
+      }
+    },
+    "content_for_index": []
+  }
 }
