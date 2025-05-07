@@ -9,7 +9,7 @@
  */
 {
   "type": "header",
-  "name": "Group name",
+  "name": "footer",
   "sections": {
       "custom-liquid": {
           "type": "custom-liquid",
