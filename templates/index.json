@@ -9,7 +9,10 @@
  */
 {
   "sections": {
+    "empty": {
+      "type": "empty",
+      "settings": {}
+    }
   },
-  "order": [
-  ]
+  "order": ["empty"]
 }
